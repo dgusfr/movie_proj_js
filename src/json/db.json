@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "Apocalypse Now",
+        "capa": "img/36-Apocalypse-Now.png",
+        "link": "https://www.youtube.com/watch?v=FTjG-Aux_yQ"
     },
     {
         "id": 2,
