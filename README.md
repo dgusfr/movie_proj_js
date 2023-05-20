@@ -1,4 +1,4 @@
-# Catálogo de Filmes
+# Catálogo de Filmes com JavaScript
 
 ![Descrição da Imagem](public/imagens/banner-favoritos.png)
 
@@ -12,19 +12,19 @@
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo introduzir ao usuario ao mundo de orientação a objetos através da linguagem JavaScript
+Este projeto tem como objetivo mostrar as principais sugestões de filmes deste usuário
 
 ### Funcionalidades
 
-Este codigo simula a criação de usuarios, administradores e docentes.
+Você pode ver a capa, descrição e trailer dos filmes nesta pagina web
 
 ### Contribuições
 
-Basta compilar o codigo e muda-lo como queira, pode adicionar usuários...
+Este projeto foi realizado junto aos cursos de React da Alura e customizado por mim.
 
 ## Instalação
 
 
 ## Conclusão
 
-Neste projeto você irá aprender Orientação a objetos, funções, prototipos, classes, heranças, encapsulamento e polimosrfismo.
+Este projeto apresenta a utilização do REACT.js, além da prototipação de migração para o Typescript.
