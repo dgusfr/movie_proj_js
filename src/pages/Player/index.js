@@ -25,7 +25,7 @@ function Player() {
         <>
             <Banner imagem="player" />
             <Titulo>
-                <h1>Player</h1>
+                <h1>Trailer</h1>
             </Titulo>
             <section className={styles.container}>
                 <iframe
@@ -41,3 +41,8 @@ function Player() {
 }
 
 export default Player;
+
+//Este código define o componente Player, que exibe um vídeo em um player. 
+//Ele importa os componentes Banner, Titulo e NaoEncontrada, bem como o hook useParams e as funções useEffect e useState do React. 
+//O componente faz uma requisição para obter os dados de um vídeo específico usando o ID fornecido nos parâmetros da URL. Se o vídeo não for encontrado, o componente NaoEncontrada é renderizado. 
+//Caso contrário, o vídeo é exibido no player dentro do elemento <iframe>.

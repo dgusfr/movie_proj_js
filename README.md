@@ -12,11 +12,11 @@
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo mostrar as principais sugestões de filmes deste usuário
+Este projeto tem como objetivo mostrar as principais sugestões de filmes deste usuário que vos fala.
 
 ### Funcionalidades
 
-Você pode ver a capa, descrição e trailer dos filmes nesta pagina web
+Você pode ver a capa, descrição e trailer dos filmes nesta pagina web.
 
 ### Contribuições
 
