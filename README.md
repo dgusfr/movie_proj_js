@@ -1,5 +1,7 @@
 # Catálogo de Filmes
 
+![Descrição da Imagem](public/imagens/banner-favoritos.png)
+
 ## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
