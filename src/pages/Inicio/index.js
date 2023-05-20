@@ -20,7 +20,7 @@ function Inicio() {
             {/* Renderiza Banner e passa uma propriedade 'imagem' com o valor "home" */}
             <Banner imagem="home" />
             <Titulo>
-                <h1>Um lugar para encontrar os melhores filmes</h1>
+                <h1>Um lugar para encontrar os melhores</h1>
             </Titulo>
             <section className={styles.container}>
                 {/* Mapeia cada item do array e retorna o video referente ao 'id' de cada 'card'*/}
