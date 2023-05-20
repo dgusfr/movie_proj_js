@@ -2,7 +2,7 @@
     {
         "id": 1,
         "titulo": "Apocalypse Now",
-        "capa": "img/36-Apocalypse-Now.png",
+        "capa": "https://github.com/DGusFr/movie_proj_js/blob/master/img/36-Apocalypse-Now.png",
         "link": "https://www.youtube.com/watch?v=FTjG-Aux_yQ"
     },
     {
