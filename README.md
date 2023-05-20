@@ -1,25 +1,28 @@
-#Catálago de filmes 
+# Catálogo de Filmes
 
-##Pré-requisitos
-Liste aqui quaisquer requisitos necessários para executar o projeto, como bibliotecas, frameworks, software, etc.
+## Sumário
 
-##Instalação
-Forneça instruções passo a passo sobre como instalar e configurar o projeto em um ambiente local.
+- [Sobre o Projeto](#sobre-o-projeto)
+  - [Funcionalidades](#funcionalidades)
+  - [Contribuições](#contribuicoes)
+- [Instalação](#instalacao)
+- [Conclusão](#conclusão)
 
-Primeiro passo...
-Segundo passo...
-Terceiro passo...
-Uso
-Explique como usar o projeto. Forneça exemplos de código, comandos ou capturas de tela, se aplicável.
+## Sobre o Projeto
 
-##Contribuição
-Indique se você está aberto a contribuições e, se estiver, descreva como os contribuidores podem colaborar com o projeto.
+Este projeto tem como objetivo introduzir ao usuario ao mundo de orientação a objetos através da linguagem JavaScript
 
-##Autores
-Liste os autores do projeto ou atribua a autoria a você mesmo.
+### Funcionalidades
 
-##Licença
-Declare a licença sob a qual o projeto está disponível. Por exemplo, MIT, Apache 2.0, etc.
+Este codigo simula a criação de usuarios, administradores e docentes.
 
-##Agradecimentos
-Se você quiser agradecer a alguém ou a alguma organização específica, este é o lugar para fazê-lo.
+### Contribuições
+
+Basta compilar o codigo e muda-lo como queira, pode adicionar usuários...
+
+## Instalação
+
+
+## Conclusão
+
+Neste projeto você irá aprender Orientação a objetos, funções, prototipos, classes, heranças, encapsulamento e polimosrfismo.
