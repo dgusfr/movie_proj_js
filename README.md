@@ -2,6 +2,8 @@
 
 ![Descrição da Imagem](public/imagens/banner-favoritos.png)
 
+# Este Projeto Utiliza React.JS para desenvolvimento de interface.
+
 ## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
