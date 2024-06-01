@@ -1,6 +1,17 @@
-# Catálogo de Filmes com JavaScript
+# Catálogo de Filmes com JavaScript e React
 
 ![Descrição da Imagem](public/imagens/banner-favoritos.png)
+
+## Sumário
+
+- [Sobre o Projeto](#sobre-o-projeto)
+  - [Funcionalidades](#funcionalidades)
+  - [Contribuições](#contribuicoes)
+- [Instalação](#instalacao)
+
+## Visual do projeto
+
+![Descrição da Imagem](public/imagens/proj.png)
 
 ## Tecnologias Utilizadas
 
@@ -12,13 +23,6 @@
     <img src="public/imagens/react.png" alt="Logo React" width="100"/>
   </div>
 </div>
-
-## Sumário
-
-- [Sobre o Projeto](#sobre-o-projeto)
-  - [Funcionalidades](#funcionalidades)
-  - [Contribuições](#contribuicoes)
-- [Instalação](#instalacao)
 
 ## Sobre o Projeto
 
@@ -35,3 +39,7 @@ Este projeto foi realizado junto aos cursos de React da Alura e customizado por 
 ## Conclusão
 
 Este projeto apresenta a utilização do REACT.js, além da prototipação de migração para o Typescript.
+
+# Autor
+
+Desenvolvido por Diego Franco.
